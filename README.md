@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/S9WTUTwx)
+Enllaç del document: [Enllaç](https://docs.google.com/document/d/1g7JCwqsc-1BfgEmfJCHNfvtsB_q5ub14yqk3UZQ94qU/edit?usp=sharing)
+Enllaç del projecte: [Enllaç](https://github.com/AlejandroMarEst/T1.PR1.Criptografia)
